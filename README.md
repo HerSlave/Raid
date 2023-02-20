@@ -1,2 +1,2 @@
 # Raid
-Old project of mine, this a bot script used for raiding discord server/mass-pinging
+A discord bot nuker that will screw an server up real bad, also has inbuilt mass-spam /ping 
